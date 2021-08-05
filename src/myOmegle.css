@@ -1,0 +1,15 @@
+.add .active .icon {
+  -webkit-transform: rotate(45deg);
+          transform: rotate(45deg);
+}
+
+.add .active .theForm {
+  visibility: visible;
+  -webkit-transform: translateY(0%);
+          transform: translateY(0%);
+}
+
+.icon:hover .icon::before {
+  content: 'Active class not working';
+}
+/*# sourceMappingURL=myOmegle.css.map */

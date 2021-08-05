@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AACI,IADA,CAAC,OAAO,CACR,KAAK,CAAC;EACF,SAAS,EAAE,aAAa;CAC3B;;AAHL,AAII,IAJA,CAAC,OAAO,CAIR,QAAQ,CAAC;EACL,UAAU,EAAE,OAAO;EACnB,SAAS,EAAE,cAAc;CAC5B;;AAGL,AACI,KADC,AAAA,MAAM,CACP,KAAK,AAAA,QAAQ,CAAC;EACV,OAAO,EAAC,0BACZ;CAAC",
+    "sources": [
+        "myOmegle.scss"
+    ],
+    "names": [],
+    "file": "myOmegle.css"
+}

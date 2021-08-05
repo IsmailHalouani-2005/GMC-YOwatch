@@ -1,0 +1,15 @@
+.add .active {
+    .icon {
+        transform: rotate(45deg)
+    }
+    .theForm {
+        visibility: visible;
+        transform: translateY(0%);
+    }
+}
+
+.icon:hover {
+    .icon::before {
+        content:'Active class not working'
+    }
+}
