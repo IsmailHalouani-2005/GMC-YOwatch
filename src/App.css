@@ -78,7 +78,7 @@
 .add {
   margin-left: 2rem;
 }
-.icon{
+.thePlusIcon{
   width: 3em;
   background-color: var(--primary);
   border-radius: 50rem;
